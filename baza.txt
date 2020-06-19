@@ -1,0 +1,33 @@
+Uczen
+-idUczen
+-Imie
+-Nazwisko
+-Adres
+-Nr tel
+#Klasa
+
+Przedmiot
+-idPrzedmiot
+-Nazwa
+
+Nauczyciel
+-idNauczyciel
+-Imie
+-Nazwisko
+-Adres
+-Nr tel
+
+Wynik
+-idWynik
+#Przedmiot
+#Nauczyciel
+#Uczen
+#Ocena
+
+Ocena
+-idOcena
+-stopien
+
+Klasa
+-idKlasa
+-Nazwa
